@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: prova_v1
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: jheimes
+Implementation-Vendor-Id: org.malopes
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
